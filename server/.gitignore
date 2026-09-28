@@ -1,0 +1,4 @@
+# Server environment variables & node_modules
+node_modules/
+.env
+*.log

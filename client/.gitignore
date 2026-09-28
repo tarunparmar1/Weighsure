@@ -1,0 +1,6 @@
+# Client dependencies & Vite build directory
+node_modules/
+dist/
+.env
+.env.local
+*.log
