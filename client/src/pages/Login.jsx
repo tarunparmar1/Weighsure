@@ -31,9 +31,7 @@ export default function Login() {
         
         {/* Header */}
         <div style={{ textAlign: 'center', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-light)', paddingBottom: '1rem' }}>
-          <div style={{ fontSize: '0.8125rem', color: 'var(--gov-navy)', fontWeight: 700 }}>
-            भारत सरकार | GOVERNMENT OF INDIA
-          </div>
+          
           <h2 style={{ fontSize: '1.25rem', color: 'var(--gov-navy)', margin: '0.25rem 0 0.1rem 0' }}>
             Legal Metrology Portal
           </h2>
